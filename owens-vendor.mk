@@ -223,7 +223,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/motorola/owens/proprietary/vendor/lib/libremosaic_daemon.so:system/vendor/lib/libremosaic_daemon.so \
     vendor/motorola/owens/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
-    vendor/motorola/owens/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so
+    vendor/motorola/owens/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
     vendor/motorola/owens/proprietary/bin/adsprpcd:system/bin/adsprpcd \
     vendor/motorola/owens/proprietary/bin/ATFWD-daemon:system/bin/ATFWD-daemon \
     vendor/motorola/owens/proprietary/bin/btnvtool:system/bin/btnvtool \
