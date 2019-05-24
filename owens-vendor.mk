@@ -574,8 +574,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/owens/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
 
-PRODUCT_PACKAGES += \
-    libril \
+PRODUCT_PACKAGES +=\
+#    libril \
     TimeService \
     datastatusnotification \
     CNEService \
