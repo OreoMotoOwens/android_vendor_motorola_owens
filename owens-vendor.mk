@@ -609,6 +609,6 @@ PRODUCT_PACKAGES +=\
     QPerformance \
     qti-telephony-common \
     rcsimssettings \
-    rcsservice \
+    rcsservice
 #    rcs_service_aidl \
-    rcs_service_api
+#    rcs_service_api
