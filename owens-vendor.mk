@@ -610,5 +610,5 @@ PRODUCT_PACKAGES +=\
     qti-telephony-common \
     rcsimssettings \
     rcsservice \
-    rcs_service_aidl \
+#    rcs_service_aidl \
     rcs_service_api
