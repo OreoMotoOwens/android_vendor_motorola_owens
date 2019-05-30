@@ -92,7 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/etc/firmware/marley-dsp2-aov-frontend.wmfw:system/etc/firmware/marley-dsp2-aov-frontend.wmfw \
     vendor/motorola/owens/proprietary/etc/firmware/marley-dsp3-aov-control.wmfw:system/etc/firmware/marley-dsp3-aov-control.wmfw \
     vendor/motorola/owens/proprietary/etc/firmware/sensorhubfw.bin:system/etc/firmware/sensorhubfw.bin \
-    vendor/motorola/owens/proprietary/etc/firmware/synaptics-s3508-16082601-255c40-owens.tdat:system/etc/firmware/synaptics-s3508-16082601-255c40-owens.tdat \
     vendor/motorola/owens/proprietary/etc/firmware/focaltech-boe-ft5436-04-0001-owens.bin:system/etc/firmware/focaltech-boe-ft5436-04-0001-owens.bin \
     vendor/motorola/owens/proprietary/etc/firmware/focaltech-inx-ft5436-02-0001-owens.bin:system/etc/firmware/focaltech-inx-ft5436-02-0001-owens.bin \
     vendor/motorola/owens/proprietary/etc/gps.conf:system/etc/gps.conf \
@@ -545,7 +544,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/qcril.db:system/vendor/qcril.db
 
 PRODUCT_PACKAGES += \
-    libril \
+#    libril \
     TimeService \
     datastatusnotification \
     CNEService \
