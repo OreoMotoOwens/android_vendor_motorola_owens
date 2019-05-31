@@ -404,6 +404,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libdrplugin_client.so:system/vendor/lib/libdrplugin_client.so \
     vendor/motorola/owens/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/motorola/owens/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/motorola/owens/proprietary/vendor/lib/libevent_observer.so:system/vendor/lib/libevent_observer.so \
     vendor/motorola/owens/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/motorola/owens/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
@@ -443,6 +444,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libmmsw_math.so:system/vendor/lib/libmmsw_math.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmmsw_opencl.so:system/vendor/lib/libmmsw_opencl.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmmsw_platform.so:system/vendor/lib/libmmsw_platform.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmot_gpu_mapper.so:system/vendor/lib/libmot_gpu_mapper.so \
     vendor/motorola/owens/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
     vendor/motorola/owens/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
@@ -515,6 +517,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libsdm-color.so:system/vendor/lib/libsdm-color.so \
     vendor/motorola/owens/proprietary/vendor/lib/libsdm-diag.so:system/vendor/lib/libsdm-diag.so \
     vendor/motorola/owens/proprietary/vendor/lib/libsdm-disp-apis.so:system/vendor/lib/libsdm-disp-apis.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libsdm-disp-vndapis.so:system/vendor/lib/libsdm-disp-vndapis.so \
     vendor/motorola/owens/proprietary/vendor/lib/libsdmextension.so:system/vendor/lib/libsdmextension.so \
     vendor/motorola/owens/proprietary/vendor/lib/libseemore.so:system/vendor/lib/libseemore.so \
     vendor/motorola/owens/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
