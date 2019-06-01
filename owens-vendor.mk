@@ -235,6 +235,15 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_default_video_3a.so:system/vendor/lib/libchromatix_mot_ov5695_default_video_3a.so \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_hfr_120.so:system/vendor/lib/libchromatix_mot_ov5695_hfr_120.so \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_hfr_120_3a.so:system/vendor/lib/libchromatix_mot_ov5695_hfr_120_3a.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_common.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_common.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_liveshot.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_liveshot.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_snapshot.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_snapshot.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_video.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_cpp_video.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_default_video.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_default_video.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_default_video_3a.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_default_video_3a.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_postproc.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_postproc.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_snapshot.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_snapshot.so \
+    vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_l5695fa0_snapshot_3a.so:system/vendor/lib/libchromatix_mot_ov5695_l5695fa0_snapshot_3a.so \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_postproc.so:system/vendor/lib/libchromatix_mot_ov5695_postproc.so \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_snapshot.so:system/vendor/lib/libchromatix_mot_ov5695_snapshot.so \
     vendor/motorola/owens/proprietary/vendor/lib/libchromatix_mot_ov5695_snapshot_3a.so:system/vendor/lib/libchromatix_mot_ov5695_snapshot_3a.so \
@@ -390,7 +399,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/owens/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmmqjpeg_codec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpeg_codec.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmmqjpegdma.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmqjpegdma.so \
-    vendor/motorola/owens/proprietary/vendor/lib/libmodmanager.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmodmanager.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmot_afd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmot_afd.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmot_gpu_mapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmot_gpu_mapper.so \
     vendor/motorola/owens/proprietary/vendor/lib/libmotext_inf.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmotext_inf.so \
